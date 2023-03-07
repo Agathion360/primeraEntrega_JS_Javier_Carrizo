@@ -1,0 +1,68 @@
+main .row .col-12 {
+  background-color: #eaeadc;
+}
+main .row .col-12 .card {
+  border-radius: 0;
+  height: 28rem;
+  width: 30rem;
+  margin: 3rem 0 5rem 5rem;
+  -webkit-box-shadow: -15px 18px 24px -11px rgb(99, 99, 99);
+  -moz-box-shadow: -15px 18px 24px -11px rgb(99, 99, 99);
+  box-shadow: -15px 18px 24px -11px rgb(99, 99, 99);
+  border: none;
+}
+main .row .col-12 .card .card-header {
+  background-color: #daeddf;
+  font-family: Roboto;
+  border: none;
+  border-radius: 0;
+}
+main .row .col-12 .card .card-body .card-title {
+  font-family: Quicksand;
+  font-weight: bolder;
+  font-size: 18px;
+  margin-bottom: 40px;
+}
+main .row .col-12 .card form input {
+  background-color: rgb(248, 246, 246);
+}
+main .row .col-12 .card form ::placeholder {
+  color: rgb(194, 190, 190);
+}
+main .row .col-12 .card form .form-text {
+  margin-bottom: 30px;
+}
+main .row .col-12 .card form .btn {
+  margin-top: 20px;
+  background-color: #daeddf;
+  font-family: Roboto;
+}
+main .row .col-12 .card form .btn:hover {
+  background-color: #a7d4b2;
+}
+main .iniciador .row .col-12 {
+  background-color: #a7d4b2;
+  height: 3rem;
+}
+main .iniciador .row .col-12 p {
+  font-family: Roboto;
+  height: 40px;
+  margin-top: 15px;
+}
+
+footer {
+  height: 60px;
+  background-color: #efd81d;
+}
+footer .container-fluid .row .col-4 p {
+  font-family: Quicksand;
+  font-size: 20px;
+  font-weight: 300;
+  margin-top: 1rem;
+}
+footer .container-fluid .row .col-4 p span {
+  font-weight: 500;
+  font-size: 25;
+}
+
+/*# sourceMappingURL=style.css.map */
